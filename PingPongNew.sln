@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPongNew", "PingPongNew\PingPongNew.csproj", "{5B99666C-E678-40DB-947D-F8C148E2F84A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B99666C-E678-40DB-947D-F8C148E2F84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B99666C-E678-40DB-947D-F8C148E2F84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B99666C-E678-40DB-947D-F8C148E2F84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B99666C-E678-40DB-947D-F8C148E2F84A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78A0A194-7D60-414F-8523-0A81D202A535}
+	EndGlobalSection
+EndGlobal

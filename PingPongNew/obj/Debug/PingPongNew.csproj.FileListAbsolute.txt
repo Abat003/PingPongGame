@@ -1,0 +1,10 @@
+D:\Abat\Project csharp\PingPongNew\PingPongNew\bin\Debug\PingPongNew.exe.config
+D:\Abat\Project csharp\PingPongNew\PingPongNew\bin\Debug\PingPongNew.exe
+D:\Abat\Project csharp\PingPongNew\PingPongNew\bin\Debug\PingPongNew.pdb
+D:\Abat\Project csharp\PingPongNew\PingPongNew\obj\Debug\PingPongNew.csprojAssemblyReference.cache
+D:\Abat\Project csharp\PingPongNew\PingPongNew\obj\Debug\PingPongNew.Form1.resources
+D:\Abat\Project csharp\PingPongNew\PingPongNew\obj\Debug\PingPongNew.Properties.Resources.resources
+D:\Abat\Project csharp\PingPongNew\PingPongNew\obj\Debug\PingPongNew.csproj.GenerateResource.cache
+D:\Abat\Project csharp\PingPongNew\PingPongNew\obj\Debug\PingPongNew.csproj.CoreCompileInputs.cache
+D:\Abat\Project csharp\PingPongNew\PingPongNew\obj\Debug\PingPongNew.exe
+D:\Abat\Project csharp\PingPongNew\PingPongNew\obj\Debug\PingPongNew.pdb
